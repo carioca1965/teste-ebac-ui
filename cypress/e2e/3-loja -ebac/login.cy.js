@@ -36,6 +36,7 @@ describe('funcionalidade: Login', () => {
         cy.get('.woocommerce-error').should('exist') 
     
     });
+    
 
 })
 
