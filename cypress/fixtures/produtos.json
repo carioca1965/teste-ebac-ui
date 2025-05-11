@@ -1,0 +1,18 @@
+[
+   { 
+     "nomeProduto": "Abominable Hoodie",
+     "tamanho": "XS",
+     "cor":"Blue",
+     "quantidade": 3
+   }, 
+    { 
+     "nomeProduto": "Cassius Sparring Tank",
+     "tamanho": "M",
+     "cor":"Blue",
+     "quantidade": 5
+   }
+
+   
+
+
+]

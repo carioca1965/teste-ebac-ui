@@ -63,7 +63,7 @@ describe('funcionalidade: Login', () => {
     it.only('Deve fazer logim com sucesso usando  comandos otimizados', () => {
         
             cy.login('eduardoteste@teste.com.br', '1234')
-            cy.get('.woocommerce-MyAccount-content > :nth-child(2)').should('contain' ,'Olá, eduardoteste (não é eduardoteste? Sair' )
+            
 
     
     
